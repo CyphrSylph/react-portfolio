@@ -36,7 +36,7 @@
 }
 
 .about__subtitle {
-    font-size: var(--tiny-font-size);
+    font-size: var(--smaller-font-size);
 }
 
 .about__description {
