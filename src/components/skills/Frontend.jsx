@@ -47,7 +47,7 @@ const Frontend = () => {
                     <div className="skills__data">
                         <HiOutlineCheckBadge />
                         <div>
-                            <h3 className="skills__name">Typescript</h3>
+                            <h3 className="skills__name">React</h3>
                             <span className="skills__level">Basic</span>
                         </div>
                     </div>
