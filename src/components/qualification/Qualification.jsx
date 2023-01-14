@@ -121,6 +121,11 @@ const Qualification = () => {
                         </div>
                     </div>
                     <div className="qualification__data">
+                        <div></div>
+                        <div>
+                            <span className="qualification__rounder"></span>
+                            <span className="qualification__line"></span>
+                        </div>
                         <div>
                             <h3 className="qualification__title">Digital Illustrator</h3>
                             <span className="qualification__subtitle">Freelance - Remote, TX</span>
@@ -128,10 +133,6 @@ const Qualification = () => {
                                 <HiOutlineCalendar className="qualification__calendar-icon" />
                                 2019-Present
                             </div>
-                        </div>
-                        <div>
-                            <span className="qualification__rounder"></span>
-                            <span className="qualification__line"></span>
                         </div>
                     </div>
                 </div>
