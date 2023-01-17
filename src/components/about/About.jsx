@@ -14,7 +14,7 @@ const About = () => {
             <div className="about__data">
                 <Info />
                 <p className="about__description">
-                    I create web pages highlighting minimal design and friendly UI/UX interfaces.
+                    I create applications highlighting minimal design and friendly UI/UX interfaces.
                 </p>
                 <a download="" href={CV} className="button button--flex">
                     Download CV

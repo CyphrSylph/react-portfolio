@@ -8,19 +8,19 @@ export const projectsData = [
         id: 1,
         image: Project1,
         title: "Project 1",
-        category: "Tag A",
+        category: "A",
     },
     {
         id: 2,
         image: Project2,
         title: "Project 2",
-        category: "Tag B",
+        category: "B",
     },
     {
         id: 3,
         image: Project3,
         title: "Project 3",
-        category: "Tag C",
+        category: "C",
     },
 ];
 
@@ -29,12 +29,12 @@ export const projectsNav = [
         name: "All",
     },
     {
-        name: "Tag A",
+        name: "A",
     },
     {
-        name: "Tag B",
+        name: "B",
     },
     {
-        name: "Tag C",
+        name: "C",
     },
 ];
