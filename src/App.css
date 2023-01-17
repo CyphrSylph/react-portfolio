@@ -8,7 +8,8 @@
     --hue: 0;
     --sat: 0%;
     --title-color: hsl(var(--hue), var(--sat), 20%);
-    --title-color-dark: hsl(var(--hue), var(--sat), 0%);
+    /* --title-color-dark: hsl(var(--hue), var(--sat), 0%); */
+    --title-color-dark: hsl(75, 46%, 51%);
     --text-color: hsl(var(--hue), var(--sat), 46%);
     --body-color: hsl(var(--hue), var(--sat), 98%);
     --container-color: #fff;
@@ -141,9 +142,10 @@ img {
     background-color: var(--title-color-dark);
 }
 
-.button_icon {
+.button__icon {
     margin-left: var(--mb-0-5);
 }
+
 
 .button--flex {
     display: inline-flex;
@@ -161,7 +163,7 @@ img {
         padding: 1rem 1.75rem;
     }
 
-    .button_icon {
+    .button__icon {
         width: 22px;
         height: 22px;
     }
